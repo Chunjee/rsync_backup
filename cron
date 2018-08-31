@@ -1,0 +1,1 @@
+30 5 * * * /home/scripts/backup.sh > /dev/cronjobs 2>&1
