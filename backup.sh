@@ -11,8 +11,8 @@
 DIRS="/home /mnt/media"
 
 # SQL login details
-MUSER="root"
-MPASS="mypassword"
+MUSER=""
+MPASS=""
 MHOST="localhost"
 
 # Temp location for DB dumps
